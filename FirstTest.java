@@ -8,7 +8,7 @@ public class FirstTest extends WebDriverSettings  //ЗМIНИ
     @Test
     public void firstTest()
     {
-        driver.get("https://loveandlive.ua/");
+        driver.get("https://rozetka.com.ua/");
         WebElement pageLogo = null;
         try
         {
